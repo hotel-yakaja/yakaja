@@ -71,5 +71,6 @@
 - 예약 목록
 
 ## DB 구성
-![yakaja_ERD](https://github.com/hotel-yakaja/yakaja/files/12279524/yakaja_ERD.pdf)
+![YAKAJA_ERD](https://github.com/hotel-yakaja/yakaja/assets/131237820/247b70ad-ee89-4817-86ac-7465246d04f7)
+
 
