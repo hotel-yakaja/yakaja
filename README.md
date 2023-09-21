@@ -73,4 +73,5 @@
 ## DB 구성
 ![YAKAJA_ERD](https://github.com/hotel-yakaja/yakaja/assets/131237820/247b70ad-ee89-4817-86ac-7465246d04f7)
 
-
+## 시연영상
+https://youtu.be/Psxh_2xOo54
